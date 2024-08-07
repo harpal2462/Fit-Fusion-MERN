@@ -19,16 +19,16 @@ Fit Fusion is a comprehensive fitness tracking application built with the MERN s
 ![Dashboard page2](./client/public/ScreenShots/dashboard2.png)
 
 
-3.**Workouts Page**
+4.**Workouts Page**
 
 ![Workouts page](./client/public/ScreenShots/workouts.png)
 
 
-3.**User Database**
+5.**User Database**
 
 ![User Database](./client/public/ScreenShots/userdb.png)
 
-3.**Workout Database**
+6.**Workout Database**
 
 ![Workout Database](./client/public/ScreenShots/workoutdb.png)
 
